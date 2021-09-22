@@ -4,4 +4,7 @@ This is my test file to illustrate version control and markdown. This is **bold*
  * item 2
  
 Here is another sentence.
+
 Just checking if "push" happens.
+
+Testing again.
